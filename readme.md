@@ -12,6 +12,6 @@
     pip install torch==1.4.0
     ```
 # 结果展示
-![image1](https://github.com/xxx/xx.png)
+![image1](https://github.com/bladezzw/RL_project_portfolio/blob/master/result_test_ddpg.png)
 
-![image2](https://github.com/xxx/xx.png)
+![image2](https://github.com/xxx/xx.pnghttps://github.com/bladezzw/RL_project_portfolio/blob/master/result_test_ppo.png
